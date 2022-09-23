@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.lead{
+    background-color:#FBEAFF;
+    text-align: center;
+    height: 200px;
+}
+.lead p{
+    line-height: 200px;
+    font-size: 50px;
+}
+.popo{
+    height: 390px;
+
+}
+.pop{
+    height: 390px;
+    width: 320px;
+   border:1px solid;
+  content: url(主界面4.jpg); 
+    float: left; 
+}
+.po p{
+    color:red;
+    font-size: large; 
+}
+#wheat{
+    font-size: 30px;
+}
+.p{
+   height: 390px;
+   width: 320px; 
+   border: 1px solid;
+   float: right;
+   content: url(主界面6.jpg); 
+}
+.hobby{
+    height: 100px;
+    background-color:#FBEAFF;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+}
+.hobbybody{
+    height: 140px;
+  
+}
+.hobbybody1{
+    height: 100px;
+    width: 100px;
+    border:20px solid white;
+    content: url(R-C.png); 
+    margin-left: 100px;
+    float: left; 
+}
+.hobbybody2{
+    height: 100px;
+    width: 300px;
+    border: 20px solid white;
+    content: url(hobby2.png);
+    float: right;
+}
+.hobbybody3{
+    height: 100px;
+    width: 300px;
+    border: 20px solid white;
+    content: url(hobby3.png);
+    margin-left: 590px;
+}
+.sport{
+    height: 140px;
+}
+.sport1{
+    height: 120px;
+    width: 150px;
+    border: 10px solid white;
+    content: url(sport.png);
+    margin-left: 100px;
+    float: left;
+}
+.sport2{
+    height: 120px;
+    width: 200px;
+    border: 10px solid white;
+    content: url(sport1.jpg);
+    margin-right: 75px;
+    float: right;
+}
+.sport3{
+    height: 120px;
+    width: 200px;
+    border: 10px solid white;
+    content: url(sport2.jpg);
+    margin-left: 650px;
+}
+.photo{
+    height: 130px;
+
+}
+.photo1{
+    height:120px;
+    width: 200px;
+    border: 10px solid white;
+    content: url(photo10.png);
+    float: left;
+    margin-top: 50px;
+    margin-left: 67px;
+}
+.photo2{
+    height:220px;
+    width: 360px;
+    border: 10px solid white;
+    content: url(photo3.jpg);
+    float: right;
+   
+}
+.photo3{
+    height:220px;
+    width: 360px;
+    border: 10px solid white;
+    content: url(photo.jpg);
+    margin-left: 570px;
+    
+}
+.home{
+    height: 100px;
+    background-color:#FBEAFF;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+    margin-top: 150px;
+}
+.home1{
+    height: 400px;
+}
+
+.home2{
+    height: 390px;
+    width: 400px;
+   border:10px solid white;
+  content: url(home.jpg); 
+  float: left;
+   
+}
+.home3{
+    height: 390px;
+    width: 400px;
+   border:10px solid white;
+  content: url(home2.jpg); 
+  float: right;
+    
+}
+.home4 p{
+    text-align: center;
+    font-size: 18px;
+}
+#poem{
+    font-size: 30px;
+}
+#poem1{
+    font-size: 30px;
+}
+.thanks{
+    height: 100px;
+    background-color:#FBEAFF;
+    line-height: 100px;
+    text-align: center;
+    font-size: 30px;
+}
